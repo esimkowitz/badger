@@ -7,7 +7,7 @@ At GitHub Universe 2024, attendees are given [hackable badges](https://gh.io/bad
 
 ## Setup
 
-Setting this up was a real pain, involving bricking two separate badges. If you have the GitHub Universe RP2350 badge, DO NOT flash the firmware from the release page for repo I am about to link.
+Setting this up was a real pain, involving bricking two separate badges. If you have the GitHub Universe RP2350 badge, DO NOT flash the firmware from the release page for repo I am about to link. Just use the one installed on your badge and do your best not to get stuck in an infinite loop like I did...
 
 I followed [this tutorial](https://github.com/badger/home/blob/main/tutorial.md) to connect to the badge and upload my app.
 
