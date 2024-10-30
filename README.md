@@ -7,6 +7,8 @@ At GitHub Universe 2024, attendees are given [hackable badges](https://gh.io/bad
 
 ## Setup
 
-Setting this up was a real pain, involving bricking two separate badges. I got connected by following [this guide](git@github.com:esimkowitz/badger.git).
+Setting this up was a real pain, involving bricking two separate badges. If you have the GitHub Universe RP2350 badge, DO NOT flash the firmware from the release page for repo I am about to link.
 
-Copy the whole `evan` directory into the `/` root of the badge-OS filesystem. Copy `evan.py` and `icon-evan.jpg` into the `/examples` directory.
+I followed [this tutorial](https://github.com/badger/home/blob/main/tutorial.md) to connect to the badge and upload my app.
+
+Using the method described in the tutorial, copy the `evan` directory to the `/` root directory on the badge and copy `evan.py` and `icon-evan.py` to the `/examples` directory on the badge.
